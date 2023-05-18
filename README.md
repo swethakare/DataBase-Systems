@@ -5,6 +5,6 @@ Project component 1: initial ER design for the specified problem statement.(Refe
 
 Project component 2: Mapping the designed ER design to the data model creation of tables using SQL developer ( refer project component 2 for the tables created using mentioned ER design)
 
-project component 3:
+project component 3: Performed data insertion into the database, written sample queries to check the retrival of data from the database, performed JDBC programming to establish connection between java program and the oracle database. 
 
 project component 4: Development of android application for the frequent flier program, and using server side programming to retrive the frequent flier data from the data base
